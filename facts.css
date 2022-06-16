@@ -1,0 +1,17 @@
+.grid-container {
+  padding: 100px;
+}
+
+img {
+    height: auto;
+    width: 30rem;
+}
+
+.CEO {
+    position: relative;
+    bottom: 50px;
+}
+
+p {
+    font-size: 24px;
+}
